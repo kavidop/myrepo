@@ -1,3 +1,2 @@
 -w This is a test file\n this will be used for Git
-
 This is a new line
